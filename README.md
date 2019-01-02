@@ -1,2 +1,2 @@
 # hello-world
-jsut for practice
+just for a practice
